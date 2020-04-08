@@ -3,7 +3,6 @@ A simple command line tool that takes 2 values and adds them together using
 the calc.py library's 'add2' function.
 '''
 # trying yet another push
-hi
 import sys
 import calc
 }
